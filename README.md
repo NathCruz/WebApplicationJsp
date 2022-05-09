@@ -1,4 +1,4 @@
-<h1 align="center"> WebApplicationJsp </h1>
+<h1 align="center"> Lojinha de produtos </h1>
 
 **Descrição do Projeto:**
 
