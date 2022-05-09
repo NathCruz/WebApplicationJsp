@@ -62,7 +62,7 @@
                             </fieldset>
 
                             <fieldset class="form-group">
-                                <label>Desconto do produto</label> <input type="number" placeholder="0.0" value="<c:out value='${produto.desconto}' />" class="form-control" name="desconto">
+                                <label>Desconto do produto</label> <input type="number" placeholder="0.0%" value="<c:out value='${produto.desconto}' />" class="form-control" name="desconto">
                             </fieldset>
 
                             <fieldset class="form-group">
