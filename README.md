@@ -1,6 +1,6 @@
 <h1 align="center"> WebApplicationJsp </h1>
 
-Descrição do Projeto:
+**Descrição do Projeto:**
 Essa aplicação é um CRUD que utiliza as seguintes tecnologias: Java, HTML, Bootstrap e JSP Server.
 
 
@@ -9,7 +9,7 @@ Essa aplicação é um CRUD que utiliza as seguintes tecnologias: Java, HTML, Bo
 ## :hammer: Funcionalidades e Demonstração da Aplicação:
 
 - `Adicionar produto`: adicionar produto com suas especificações e calcular o desconto do mesmo;
-- `listar produto`: exibir na tela principal a lista de todos os produtos cadastrados;
+- `Listar produto`: exibir na tela principal a lista de todos os produtos cadastrados;
 - `Editar produto`: editar todos os campos do produto selecionado;
 - `Excluir produto`: excluir produto selecionado;
 
