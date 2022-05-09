@@ -16,7 +16,7 @@
     </head>
     <body>
         <header>
-            <nav class="navbar navbar-expand-md navbar-dark" style="background-color: tomato">
+            <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #28a745">
                 <div>
                     <a href="#" class="navbar-brand">Aplicativo de gerenciamento de Produtos </a>
                 </div>
