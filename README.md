@@ -2,7 +2,7 @@
 
 **Descrição do Projeto:**
 
-Essa aplicação é um CRUD que utiliza as seguintes tecnologias: Java, HTML, Bootstrap e JSP Server.
+Essa aplicação é um CRUD de desconto em produtos que utiliza as seguintes tecnologias: Java, HTML, Bootstrap e JSP Server.
 
 
 
