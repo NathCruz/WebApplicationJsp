@@ -1,6 +1,7 @@
 <h1 align="center"> WebApplicationJsp </h1>
 
 **Descrição do Projeto:**
+
 Essa aplicação é um CRUD que utiliza as seguintes tecnologias: Java, HTML, Bootstrap e JSP Server.
 
 
