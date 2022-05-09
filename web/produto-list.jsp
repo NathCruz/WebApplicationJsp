@@ -27,6 +27,12 @@
             </nav>
         </header>
         <br>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">Gerencie seus produtos</h1>
+                <p class="lead">Esse sistema ajuda de forma intuitiva a manter o controle dos produtos de sua loja</p>
+            </div>
+        </div>
         <div class="row">
             <!-- <div class="alert alert-success" *ngIf='message'>{{message}}</div> -->
 
