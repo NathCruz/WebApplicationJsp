@@ -54,7 +54,7 @@
                                 <label>Nome do produto</label> <input type="text" value="<c:out value='${produto.nome}' />" class="form-control" name="nome" required="required">
                             </fieldset>
                             <fieldset class="form-group">
-                                <label>Valor do produto</label> <input type="number" value="<c:out value='${produto.valor}' />" class="form-control" name="valor">
+                                <label>Valor do produto</label> <input type="number" step=".01" placeholder="0.00" value="<c:out value='${produto.valor}' />" class="form-control" name="valor">
                             </fieldset>
 
                             <fieldset class="form-group">
@@ -62,7 +62,7 @@
                             </fieldset>
 
                             <fieldset class="form-group">
-                                <label>Desconto do produto</label> <input type="number" value="<c:out value='${produto.desconto}' />" class="form-control" name="desconto">
+                                <label>Desconto do produto</label> <input type="number" placeholder="0.00" value="<c:out value='${produto.desconto}' />" class="form-control" name="desconto">
                             </fieldset>
 
                             <fieldset class="form-group">
