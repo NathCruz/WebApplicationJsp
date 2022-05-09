@@ -70,6 +70,7 @@
                             </fieldset>
 
                             <button type="submit" class="btn btn-success">Salvar</button>
+                            <button class="btn btn-success"><a href="index" class="badge-success">Voltar</a></button>
                         </form>
                 </div>
             </div>
